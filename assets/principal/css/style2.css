@@ -1,0 +1,65 @@
+/* modal de productos start*/
+.modal-header {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  height: 60px;
+}
+
+#descripcion,
+#precio {
+  font-weight: 300;
+}
+
+body.modal-open {
+  padding-right: 0 !important;
+}
+
+body {
+  padding-right: 0 !important;
+}
+
+.modal-body {
+  display: flex;
+  text-align: center;
+}
+
+.imgModal {
+  width: 230px;
+}
+
+.cositas {
+  text-align: justify;
+  margin-left: 8px;
+}
+
+/* Apartado de comentarios start */
+#elputomodal {
+  display: block;
+}
+
+.comentarios p {
+  padding-left: 8px;
+}
+
+#mensaje {
+  border: 0px;
+  border-radius: none;
+  border-bottom: 1px solid #ced4da;
+}
+
+#mensaje:focus {
+  border-color: none;
+  outline: none;
+  box-shadow: 2px 2px 6px #c9d1da;
+}
+
+.btn-comentar {
+  border: none;
+  background-color: transparent;
+  font-size: small;
+}
+
+/* Apartado de comentarios end */
+/* .modal-header .close{padding-right: 8px; */
+/* modal de productos end*/

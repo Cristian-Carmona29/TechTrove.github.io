@@ -1,0 +1,16 @@
+---------- Credenciales de Paypal Pruebas ----------
+sb-j6jdb7896999@personal.example.com
+e8O2lR-I
+
+sb-y3jfn7901325@business.example.com
+Amqes3]/
+
+
+---------- Credenciales del ADMIN Prueba ----------
+angelsifuentes2580@gmail.com
+12345
+
+
+---------- Credenciales del Cliente Prueba ----------
+crfe94jmietci@gmail.com
+12345
